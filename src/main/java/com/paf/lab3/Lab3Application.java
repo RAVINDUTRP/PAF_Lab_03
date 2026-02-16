@@ -13,7 +13,7 @@ public class Lab3Application {
 		SpringApplication.run(Lab3Application.class, args);
 	}
 
-	@GetMapping("/")
+	@GetMapping("/Hello")
 	public String rootEndpoint() {
 		String message = "Hello World! This is my first Spring Boot application.";
 		return message;
