@@ -1,6 +1,6 @@
-# PAF_LabSheet 3 
+# PAF_LabSheet 3 (SLIIT) ✅
 
-Welcome to the Lab 3 practical (SLIIT)! This practical sheet is designed to demonstrate the capabilities of Java and Spring Boot in building a robust application.
+Welcome to the Lab 3 project practical! This project is designed to demonstrate the capabilities of Java and Spring Boot in building a robust application.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -46,4 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for checking out Lab 3! We hope you find it useful and informative.
+Thank you for checking out Lab 3! We hope you find it useful and informative.😊✨
